@@ -1,3 +1,10 @@
+<h1 style="font-weight: bold;"># DEPRECATED</h1>
+<h2>
+  This code pattern is no longer supported. You can find the newly supported Text to Speech Code Pattern
+  <a href="https://github.com/IBM/text-to-speech-code-pattern">
+    here.
+  </a>
+</h2>
 <h1 align="center" style="border-bottom: none;">Text to Speech Code Pattern 📜</h1>
 <h3 align="center">Sample React app for playing around with the Watson Text to Speech service.</h3>
 <p align="center">
